@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+opencv-python
+pytesseract
+pdfplumber
+Pillow
+openai-whisper>=20231117
+torch>=2.0.0
+torchaudio>=2.0.0
